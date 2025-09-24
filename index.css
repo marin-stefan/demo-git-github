@@ -1,0 +1,14 @@
+h1 {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+p {
+    color: #3E3E3E;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
